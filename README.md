@@ -85,7 +85,7 @@ The system <strong>assists dispatchers</strong> — it never replaces human deci
 <hr>
 
 <p align="center">
-  <img src="images/" alt="PRIORITY-112 System Flow" width="80%">
+  <img src="./flow.png" alt="PRIORITY-112 System Flow" width="80%">
 </p>
 
 <h2>🏁 Summary</h2>
@@ -105,3 +105,4 @@ the system ensures that <strong>limited police resources reach those in immediat
 <p align="center">
   <em>Hackathon Project • System-level Safety Innovation</em>
 </p>
+
